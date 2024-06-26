@@ -1,0 +1,12 @@
+.conteiner img
+{
+    width:  250px;
+    height: 300px;
+    padding: auto;
+}
+.conteiner
+{
+    margin-top: 40px;
+    width: 100%;
+}
+

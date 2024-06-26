@@ -1,0 +1,11 @@
+@import url(menu.css);
+@import url(menumobile.css);
+@import url(banner.css);
+@import url(conteudo.css);
+@import url(footer.css);
+@import url(clientes.css);
+@import url(formulario.css);
+
+html {
+    scroll-behavior: smooth;
+}
